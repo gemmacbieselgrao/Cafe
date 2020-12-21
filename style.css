@@ -1,0 +1,79 @@
+
+
+body{
+    background-color: f5e3cd;
+    text-align: center;
+    font-size: 25px
+}
+h1.titulo{
+color: 650205;
+}
+
+p.carta {
+    text-align: left;
+   
+}
+
+img.img_carta {
+    width: 150px;
+    height: 150px;
+}
+.cafe{
+text-align: center;
+    color: salmon;
+    text-decoration: none;
+}
+.cafe1{
+    text-align: justify;
+    color: salmon;
+    text-decoration: none;
+}
+img.img_cafe{
+width: 150px;
+height: 150px;
+left: -100px;
+}
+
+.contacto{
+    color:salmon;
+    text-decoration: none;
+}
+.contacto1{
+    text-align: justify;
+    color: salmon;
+}
+p.contacto {
+
+    text-align: right;
+   color: salmon;
+ }
+img.img_contacto{
+    width: 150px;
+    height: 150px;
+}
+.PANIER{
+    text-align: left;
+    color: tomato;
+}
+.tartines{
+    text-align: left;
+    color: tomato;
+}
+.napolitana{
+    text-align: left;
+    color: tomato;
+}
+.croissant{
+    text-align: left;
+    color: tomato;
+}
+.pincha{
+    color: salmon;
+   font-size: smaller;
+   text-align: justify;
+}
+.click{
+    color: salmon;
+    text-align: justify;
+    font-size: smaller;
+}
